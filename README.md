@@ -1,4 +1,4 @@
-Here is my custom case for the open-source Reef system, designed to fit an Arduino Nano and a 20 mm x 80 mm PCB.
+Here is my custom case for the open-source deef system, designed to fit an Arduino Nano and a 20 mm x 80 mm PCB.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
